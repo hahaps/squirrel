@@ -5,7 +5,7 @@ An easy project for users who use node service to transfrom RESTful API.
 
 The MIT License (MIT)
 
-Copyright (c) 2015 Li Xipeng<lixipeng@hihuron.com>
+Copyright (c) 2015 Li Xipeng <lixipeng@hihuron.com>
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal

@@ -1,0 +1,9 @@
+{
+  "node": true,
+  "predef": [
+    "require",
+    "module",
+    "describe",
+    "it"
+  ]
+}
