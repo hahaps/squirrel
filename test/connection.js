@@ -1,6 +1,6 @@
 'use strict';
 
-var Connection = require('../lib/connection'),
+var Connection = require('..').Connection,
     assert = require('assert');
 
 describe('Connection', function () {

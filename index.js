@@ -6,4 +6,20 @@
 
 'use strict';
 
-module.exports = require('./lib/transformer');
+
+// Transformer
+exports.Transformer = require('./lib/transformer');
+
+
+// Connection
+exports.Connection = require('./lib/connection');
+
+
+// BaseLoader
+exports.BaseLoader = require('./lib/servers/base');
+
+
+// Express implementation
+exports.servers = {
+    Express: require('./lib/servers/express')
+};
